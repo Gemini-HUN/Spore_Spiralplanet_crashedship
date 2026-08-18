@@ -1,5 +1,5 @@
 # Spore_Spiralplanet_crashedship
-## Total Downloads: ![Downloads](https://shieldcn.dev/github/downloads/Gemini-HUN/Spore_T3_Earth?style=flat-square&color=d81b60&logo=github)
+## Total Downloads: ![Downloads](https://shieldcn.dev/github/downloads/Gemini-HUN/Spore_Spiralplanet_crashedship?style=flat-square&color=d81b60&logo=github)
 
 Change the crashedship planet to Spiralplanet
 <img width="1440" height="900" alt="Spiralplanet" src="https://github.com/user-attachments/assets/92f4179b-e2f2-4319-8bfb-e7b47f26c51a" />
