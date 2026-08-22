@@ -8,3 +8,4 @@ Change the crashedship planet to Spiralplanet
 
 ## Compatible with
 * [Spore_T3_Earth](https://github.com/Gemini-HUN/Spore_T3_Earth)
+* [Spore_hidden_planets](https://github.com/Gemini-HUN/Spore_hidden_planets)
