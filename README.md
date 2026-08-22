@@ -10,3 +10,5 @@ Change the crashedship planet to Spiralplanet
 * [Spore_T3_Earth](https://github.com/Gemini-HUN/Spore_T3_Earth)
 * [Spore_hidden_planets](https://github.com/Gemini-HUN/Spore_hidden_planets)
 * [Gemini_proto_solar_planets](https://github.com/Gemini-HUN/Gemini_proto_solar_planets)
+
+**A galaxy reset is recommended before using this mod.**
